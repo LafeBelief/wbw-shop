@@ -1,0 +1,23 @@
+# Local Test project
+/Test/
+
+# Build output directies
+target
+classes
+bin
+
+# Eclipse specific files/directories
+.classpath
+.project
+.settings
+.metadata
+RemoteSystemsTempFiles
+
+# Idea specific files/directories
+.idea
+*.iml
+.bak
+.term-project
+.factorypath
+.run
+*.log
